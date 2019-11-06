@@ -1,5 +1,5 @@
-# minds + assembly intern challenge
-Challenge for internship applicants.
+# minds + assembly dev challenge
+Challenge for dev applicants.
 
 ## Instructions
 Fork and clone this repository.
